@@ -9,9 +9,7 @@ public class GitPrctice {
       System.out.println("my second commit");
 
       System.out.println("changed by radhika.");
-      System.out.println("my third commit");
-
-      System.out.println("my forth commit");
+     
       System.out.println("my last commit");
 
 	}
